@@ -50,7 +50,9 @@ header {
     margin-left: 25px;
     font-size: 16px;
 }
-
+.nav_item:hover{
+    color:rgb(225, 225, 225);
+}
 .nav_item:hover {
     text-decoration: none;
     cursor: pointer;
